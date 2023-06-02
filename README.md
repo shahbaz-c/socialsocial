@@ -7,4 +7,5 @@ This application was produced using React and Redux, MUI5, Node.js, Express.js a
 ### `Project URL`
 
 https://socialsocial.shahbazc.com/
+
 **Login with email address: frodo@gmail.com and password: frodo to avoid having to create an account**
